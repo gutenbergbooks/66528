@@ -20,9 +20,6 @@ Language: English
 
 Character set encoding: UTF-8
 
-Produced by: Larry Dunn
-
-
 *** START OF THE PROJECT GUTENBERG EBOOK JOAN HASTE ***
 
 
